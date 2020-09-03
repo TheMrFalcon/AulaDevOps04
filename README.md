@@ -1,5 +1,5 @@
 # AulaDevOps04
 Aula sobre ramificações
-Carros
-Casa Monstro
-Harry Potter
+<br>Carros
+<br>Casa Monstro
+<br>Harry Potter
